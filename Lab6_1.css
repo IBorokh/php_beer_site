@@ -1,0 +1,101 @@
+body {
+    background-color: burlywood;
+}
+
+header {
+    display: inline-block;
+    width: 100%;
+    height: 110px;
+    margin: auto;
+    background-image: url(backheader.png);
+    
+}
+
+.logo {
+    display: inline-block;
+    font-size: 50px;
+    margin-left: 40px;
+    margin-top: 6px;   
+    font-family: cursive;
+    color: black;
+}
+
+.menu ul li {
+    font-family: cursive;
+    display: inline-block;
+    display: inline; 
+    margin-top: -15px;
+    font-size: 25px;
+    margin-right: 25px;
+    float: right;
+    color: black;
+}
+
+.mainblock {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: antiquewhite;
+    width: 75%;
+    margin-top: -10px;
+    height: 2500px;
+}
+
+.mainblock h2 {
+    text-align: center;
+    font-size: 35px;
+    
+}
+
+.mainblock img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.mainblock h3 {
+    font-size: 30px;
+    margin-left: 35px;
+}
+
+.mainblock p {
+    font-size: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+p.shtosh {
+    font-size: 50px;
+    font-family:cursive;
+    margin-left: 50px;
+}
+
+.maincontent h4 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.maincontent img {
+    margin-left: 50px;
+    float: left;
+}
+
+.maincontent p {
+    text-align: center;
+}
+
+footer {
+    display: inline-block;
+    width: 100%;
+    height: 130px;
+    margin-top: 20px;
+    background-image: url(footer.png);
+}
+
+footer p {
+    color: black;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
